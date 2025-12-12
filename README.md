@@ -1,9 +1,8 @@
-# Pick Me Detector™
+# Pick Me Detector
 
-A tiny text-analysis script that checks movie dialogue for **romantic self-erasure vibes**  
+A tiny text-analysis script that checks movie phrases for **romantic self-erasure vibes**  
 (aka when a character’s entire personality disappears into a relationship aka Bella Swan).
 
-Rule-based. Explainable. Slightly sarcastic.
 
 ---
 
@@ -12,7 +11,6 @@ Rule-based. Explainable. Slightly sarcastic.
 - Looks for common self-negating phrases
 - Prints the lines + a quick “vibe check”
 
-No ML, no magic. Just patterns.
 
 ---
 
