@@ -3,7 +3,6 @@ import re
 import nltk
 from nltk.tokenize import sent_tokenize
 
-# Download tokenizer once (safe if already installed)
 nltk.download("punkt", quiet=True)
 
 
